@@ -1,2 +1,2 @@
 # douzero
-douzero testing
+## douzero现有的ckpt效果
